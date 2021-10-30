@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cycle_deposit", "cycle_deposit\cycle_deposit.csproj", "{EA5BE5AE-D60A-49A4-B9E9-841D8715CEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5BE5AE-D60A-49A4-B9E9-841D8715CEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5BE5AE-D60A-49A4-B9E9-841D8715CEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5BE5AE-D60A-49A4-B9E9-841D8715CEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5BE5AE-D60A-49A4-B9E9-841D8715CEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74D6D6A-9DF5-4D70-B9D6-66498D5E9860}
+	EndGlobalSection
+EndGlobal
