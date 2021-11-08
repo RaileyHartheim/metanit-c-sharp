@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversion_operators_temperature", "conversion_operators_temperature\conversion_operators_temperature.csproj", "{693A8681-04A7-4DC9-8B8C-83E8E5FAD681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693A8681-04A7-4DC9-8B8C-83E8E5FAD681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693A8681-04A7-4DC9-8B8C-83E8E5FAD681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693A8681-04A7-4DC9-8B8C-83E8E5FAD681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693A8681-04A7-4DC9-8B8C-83E8E5FAD681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A107ED74-5C9D-4961-B852-8632FA5D339B}
+	EndGlobalSection
+EndGlobal
